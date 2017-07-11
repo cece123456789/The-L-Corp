@@ -1,0 +1,16 @@
+<html>
+	<img src="">
+	<h1>ABOUT</h1>
+	<body>
+	<p> it can be intimidating for women to learn and ask questions when they are in an <b>extreme minority</b>. While open and welcoming, today's budding developer community is up <b>91% male</b>. If we can empower more females with the confidence in there technology capabilities we can began to can change<i>we can begin to change this landscape</i>  
+	
+
+
+
+
+
+
+
+
+</body>
+</html>

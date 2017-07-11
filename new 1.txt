@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>The things i like </title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://yt3.ggpht.com/-0zo3UN2TACg/AAAAAAAAAAI/AAAAAAAAAAA/2zANjbHjEZQ/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"></script>
+</head>
+<body>
+
+<div class="jumbotron text-center">
+  <h1>My First Bootstrap Page</h1>
+  <p>Resize this responsive page to see the effect!</p> 
+</div>
+  
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <h3>food</h3>
+      <p>Food is the most </p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>VolleyBall</h3>
+      <p>VolleyBall is my favorte sport of all times. I've played volleyball for 3yrs now going on 4yrs and I'm trying to go to state with VolleyBall.</p>
+      <p>the reason volley ball is the best sport for me because in basketball you have to move so many places in the game try to dunk and etc. with volleyball you really dont have to move so much in the gme because its like everyone has a task to do in the game and if you stick to that task then your team wins the game.</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Movies</h3>        
+      <p>Movies are one of the things I like to do/watch because it gives me a peace of mine when im upset  and want to fight I could sit and watch a movie or tv show and I'll be alright the next minute. </p>
+      <p>i also love comedy and to make people laugh.</p>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
